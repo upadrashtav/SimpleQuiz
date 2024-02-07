@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vmram
+ *
+ */
+module SimpleQuiz {
+}
